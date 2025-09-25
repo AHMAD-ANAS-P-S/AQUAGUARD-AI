@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* Card styling */
+.card {
+  padding: 2em;
+}
+
+/* Documentation link */
+.read-the-docs {
+  color: #888;
+}
+
+/* You can add your AquaGuard-specific logo styles here if needed */
+.aquaguard-logo {
+  height: 6em;       /* adjust size */
+  padding: 1.5em;    /* adjust spacing */
+  transition: filter 0.3s;
+}
+
+.aquaguard-logo:hover {
+  filter: drop-shadow(0 0 2em #00bfffaa); /* AquaGuard blue glow */
+}
