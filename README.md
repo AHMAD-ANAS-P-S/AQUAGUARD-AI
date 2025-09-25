@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -71,3 +72,7 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+=======
+# AQUAGUARD-AI
+Water-borne diseases are common in rural areas with limited clean water and sanitation. AquaGuard AI is a software solution that monitors and predicts outbreaks. It collects health data from community workers, clinics, and citizens, and uses AI to analyze symptoms, water quality, and risks.
+>>>>>>> 5967c90fa89d41179ae2abed01e5547f81f1baac
